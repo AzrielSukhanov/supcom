@@ -2,7 +2,7 @@
 --* File: lua/modules/ui/game/gamecommon.lua
 --* Author: Chris Blackwell
 --* Summary: Functionality that is used by several game UI components
---*
+--* Comment: Testing Eclipse GIT plugin
 --* Copyright � 2005 Gas Powered Games, Inc.  All rights reserved.
 --*****************************************************************************
 
